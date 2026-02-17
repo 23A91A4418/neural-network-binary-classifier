@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Model files (large binaries)
+*.h5
+*.keras
+*.pkl
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
